@@ -1,7 +1,4 @@
-# Advanced Programming Group Project - Tarjan
-Advanced Programming course group project assessment
-
-## Summary
+# Image Filters and Orthographic Projections
 
 This repository contains a range of image filters and orthographic projections that can be applied to an input 2D or 3D data volume. All codes are written in C++ from scratch. Available operations are:
 
